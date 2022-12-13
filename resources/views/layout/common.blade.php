@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
-    <title>Jbeauty</title>
+    <title>Biwakobito</title>
 
 </head>
 <body>
